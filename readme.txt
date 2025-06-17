@@ -1,0 +1,1 @@
+This project is a simple example of git and GitHub usage.
